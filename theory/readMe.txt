@@ -17,3 +17,28 @@ Immutable Data types
  =Frozen Set
  =Bytes
 
+=>Python is case-sensitive language
+
+//comments 
+    # single line code
+
+    """
+    multiline comments
+    """
+
+//operator
+    * (a+b) a,b is operands and  + is operator
+
+    Arithmetic, Relational/comparison, Assignment, Logical
+
+//type coversion
+    =>python auto convert type (implicit conversion)
+    => example: a = 5
+                b = 5.3
+                print(a+b) //10.3 [(5.0 + 5.3) here float is superior value] 
+
+//type casting
+    => manually conver data type
+    => example: a,b = 5,"2"
+                c = int(b)
+                print(a+c) //7
