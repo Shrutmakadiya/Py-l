@@ -16,7 +16,8 @@ print("Your average is =",avg)
 #WAP to input 2 int numbers, a and b.Print True if a is greater than or equal to b. If not print False.
 a = int(input("Enter number of a = "))
 b = int(input("Enter number of b = "))
-if(a>=b):
-    print("True")
-else:
-    print("False")
+print(a >= b) #[
+# if(a>=b):
+#     print("True")
+# else:
+#     print("False") ]
