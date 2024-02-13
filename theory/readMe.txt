@@ -42,3 +42,7 @@ Immutable Data types
     => example: a,b = 5,"2"
                 c = int(b)
                 print(a+c) //7
+
+// => python has not datatype of variables but reference in memory has a datatype. 
+
+//=> slice [:](import copy copy.copy(list1)) make a copy.[dont change original]
