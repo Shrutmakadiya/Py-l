@@ -46,3 +46,7 @@ Immutable Data types
 // => python has not datatype of variables but reference in memory has a datatype. 
 
 //=> slice [:](import copy copy.copy(list1)) make a copy.[dont change original]
+
+//Loops
+    #while Loops
+    #for Loops
