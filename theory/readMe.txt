@@ -50,3 +50,7 @@ Immutable Data types
 //Loops
     #while Loops
     #for Loops
+
+
+#=>RECURSION
+    #->When a function calls itself repeatedly.
