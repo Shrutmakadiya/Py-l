@@ -29,3 +29,7 @@
 
 # import os
 # os.remove( filename ) #delete a file
+
+
+# with open( “demo.txt”, “a”) as f:
+#           data = f.read()
