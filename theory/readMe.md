@@ -26,6 +26,11 @@
     multiline comments
     """
 
+# str('shrut')  vs  repr('shrut')   vs   print('shrut')   //understand this thing
+
+# convert to base
+int('56', 8)  #('[value]', [base])
+
 # //operator
     * (a+b) a,b is operands and  + is operator
 
